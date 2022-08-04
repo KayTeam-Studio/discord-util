@@ -10,9 +10,9 @@
 
 ```XML
 <dependency>
-	    <groupId>com.github.KayTeam-Studio</groupId>
-	    <artifactId>discord-util</artifactId>
-	    <version>VERSION</version>
+    <groupId>com.github.KayTeam-Studio</groupId>
+    <artifactId>discord-util</artifactId>
+    <version>VERSION</version>
 </dependency>
 ```
 ## Gradle
@@ -24,7 +24,7 @@ repositories {
  
 ```groovy
 dependencies {
-	        implementation 'com.github.KayTeam-Studio:discord-util:VERSION'
+    implementation 'com.github.KayTeam-Studio:discord-util:VERSION'
 }
 ```
 Check the last released version in Releases section
